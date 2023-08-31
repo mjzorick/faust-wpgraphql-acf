@@ -36,11 +36,11 @@ export default function Song() {
     return (
         <Layout>
             <Link href="/albums">
-            <p className="backbutton"> View All Albums </p>
+            <p className="backButton"> View All Albums </p>
             </Link>
            <h1 className="title">{songData.songTitle}</h1>
            <p className="details">Song Length: {songData.songLength}</p>
-           <p className="details">Genre:
+           <p className="details">Genre: 
                {songData.genre.nodes.map((genre) => genre.name).join(", ")}
            </p>
            <h3 className="details">Lyrics</h3>
