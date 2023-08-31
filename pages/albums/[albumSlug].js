@@ -42,7 +42,7 @@ export default function Album() {
   const albumData = data?.album?.albumFields;
 
   if (loading) return "Loading...";
-  if (error) return `Error! ${error.message}`;
+  if (error) return "Error! ${error.message}";
 
   return (
     <Layout>
@@ -64,5 +64,3 @@ export default function Album() {
       </ol>
     </Layout>
   )};
-
-  
