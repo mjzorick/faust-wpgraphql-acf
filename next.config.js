@@ -11,11 +11,7 @@ module.exports = withFaust({
         headers: [
           {
             key: 'Cache-Control',
-            value: 'stale-while-revalidate',
-          },
-          {
-            key: 'max-age',
-            value: '10',
+            value: 'max-age=10, stale-while-revalidate',
           },
         ],
       },
