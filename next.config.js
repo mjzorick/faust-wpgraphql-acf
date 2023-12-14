@@ -13,6 +13,10 @@ module.exports = withFaust({
             key: 'Cache-Control',
             value: 'stale-while-revalidate',
           },
+          {
+            key: 'max-age',
+            value: '10',
+          },
         ],
       },
     ];
