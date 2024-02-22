@@ -1,0 +1,1031 @@
+{
+    "pageProps": {
+        "_nextI18Next": {
+            "initialI18nStore": {
+                "en": {
+                    "common": {
+                        "hgu": "He Gets Us",
+                        "all-topics": "All Content",
+                        "about-us": "About Us",
+                        "connect": "Take Action",
+                        "sign-up": "Sign up",
+                        "shop": "Give Love. Get free Gear.",
+                        "sub-title-shop": "The only currency you'll need is kindness, compassion, and love.",
+                        "trending-topics": "Trending",
+                        "search": "Search",
+                        "search-button": "Search Button",
+                        "learn-more": "Watch & Read",
+                        "read": "Read",
+                        "watch": "Watch",
+                        "play": "Play",
+                        "share-article": "Share This Article",
+                        "results-for": "Results for:",
+                        "back": "Back",
+                        "page-not-found": "Page not found",
+                        "results-not-found": "Sorry nothing matched your search. Jesus may have all the answers, but we’re still working on it",
+                        "featured-articles": "Featured articles",
+                        "load-more": "Load more",
+                        "shop-title": "Merchandise",
+                        "featured-videos": "Featured videos",
+                        "watch-video": "Watch video",
+                        "videos": "Videos",
+                        "minute": "min. read",
+                        "less-than-minute": "less than a min. read",
+                        "read-more": "Read more",
+                        "tap-to-play": "Tap to Play",
+                        "previous-card": "Previous Card",
+                        "next-card": "Next Card",
+                        "shuffle-again": "Shuffle again",
+                        "challenge-card": "Challenge Card",
+                        "question-card": "Question Card",
+                        "coming-soon": "Coming Soon",
+                        "learn-more-home": "Learn More"
+                    },
+                    "socialMedia": {
+                        "facebook": "FB",
+                        "youtube": "YT",
+                        "instagram": "IG",
+                        "twitter": "TW"
+                    },
+                    "footer": {
+                        "about": "About",
+                        "press-inquiries": "Press Inquiries",
+                        "explore": "Take Action",
+                        "legal": "He Gets Us, LLC.  ",
+                        "privacy-notice": "  Privacy Notice",
+                        "gloo-legal": "Powered by Gloo",
+                        "privacy-statement": "Privacy Statement",
+                        "info-hegetsus-email": "info@hegetsus.com",
+                        "info-hegetsus-email-text": "Info or Involvement"
+                    }
+                }
+            },
+            "initialLocale": "en",
+            "ns": ["common", "socialMedia", "footer"],
+            "userConfig": {
+                "i18n": {
+                    "locales": ["default", "en", "es"],
+                    "defaultLocale": "default",
+                    "localeDetection": false
+                },
+                "reloadOnPrerender": true,
+                "default": {
+                    "i18n": {
+                        "locales": ["default", "en", "es"],
+                        "defaultLocale": "default",
+                        "localeDetection": false
+                    },
+                    "reloadOnPrerender": true
+                }
+            }
+        },
+        "parameter": "superbowl",
+        "postPageInfo": {
+            "__typename": "RootQueryToPostConnectionPageInfo",
+            "total": 0,
+            "hasNextPage": false,
+            "endCursor": null
+        },
+        "pagesPageInfo": {
+            "__typename": "RootQueryToPageConnectionPageInfo",
+            "total": 0,
+            "hasNextPage": false,
+            "endCursor": null
+        },
+        "videoPageInfo": {
+            "__typename": "RootQueryToVideoConnectionPageInfo",
+            "total": 0,
+            "hasNextPage": false,
+            "endCursor": null
+        },
+        "items": [],
+        "page": {
+            "__typename": "Page",
+            "title": "Search",
+            "content": null,
+            "featuredImage": null,
+            "featureImageMobile": {
+                "__typename": "Page_Featureimagemobile",
+                "featureImageMobile": null,
+                "desktopBackgroundColor": null
+            },
+            "languageSwap": {
+                "__typename": "Page_Languageswap",
+                "languageThisPageIs": "en",
+                "translatedPage": {
+                    "__typename": "Page",
+                    "slug": "buscar"
+                },
+                "translatedOtherPage": {
+                    "slug": "buscar",
+                    "query": "superbowl"
+                }
+            },
+            "seo": {
+                "__typename": "PostTypeSEO",
+                "title": "Search - He Gets Us",
+                "metaDesc": "",
+                "metaKeywords": "",
+                "opengraphDescription": "",
+                "opengraphImage": {
+                    "__typename": "MediaItem",
+                    "altText": "",
+                    "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2022/08/hegetsus-logo.jpg"
+                },
+                "opengraphSiteName": "He Gets Us",
+                "opengraphTitle": "Search",
+                "opengraphType": "article"
+            },
+            "inlineHomeVideos": {
+                "__typename": "Page_Inlinehomevideos",
+                "firstInlineVideo": null,
+                "secondInlineVideo": null
+            }
+        },
+        "trendingTags": [{
+            "node": {
+                "__typename": "Tag",
+                "id": "dGVybToyMDQ=",
+                "name": "Love",
+                "slug": "love",
+                "trendingTopic": {
+                    "__typename": "Tag_Trendingtopic",
+                    "trendingTopics": true,
+                    "postsFeatured": [{
+                        "__typename": "Post",
+                        "featuredImage": {
+                            "__typename": "NodeWithFeaturedImageToMediaItemConnectionEdge",
+                            "node": {
+                                "__typename": "MediaItem",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2023/02/Thumbnail-Image-4.png",
+                                "altText": ""
+                            }
+                        },
+                        "tags": {
+                            "__typename": "PostToTagConnection",
+                            "nodes": [{
+                                "__typename": "Tag",
+                                "name": "Love",
+                                "slug": "love",
+                                "id": "dGVybToyMDQ="
+                            }]
+                        },
+                        "uri": "/he-gets-us-has-an-agenda/",
+                        "id": "cG9zdDo1Njc=",
+                        "postId": 567,
+                        "title": "He Gets Us has an agenda.",
+                        "content": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone wp-image-635 size-full\" src=\"https://content.hegetsus.com/wp-content/uploads/2023/02/Headline-1-2.png\" alt=\"\" width=\"1800\" height=\"384\" srcset=\"https://content.hegetsus.com/wp-content/uploads/2023/02/Headline-1-2.png 1800w, https://content.hegetsus.com/wp-content/uploads/2023/02/Headline-1-2-300x64.png 300w, https://content.hegetsus.com/wp-content/uploads/2023/02/Headline-1-2-1200x256.png 1200w, https://content.hegetsus.com/wp-content/uploads/2023/02/Headline-1-2-768x164.png 768w, https://content.hegetsus.com/wp-content/uploads/2023/02/Headline-1-2-1536x328.png 1536w, https://content.hegetsus.com/wp-content/uploads/2023/02/Headline-1-2-1400x299.png 1400w\" sizes=\"(max-width: 1800px) 100vw, 1800px\" /></p>\n<p><span style=\"font-weight: 400;\">How did the story of a man who taught and practiced unconditional love, peace, and kindness; who spent his life defending the poor and the marginalized; a man who even forgave his killers while they executed him unjustly — whose life inspired a radical movement that is still impacting the world thousands of years later — how did this man’s story become associated with hatred and oppression for so many people? And how might we all rediscover the promise of the love his story represents? Those are the questions at the heart of He Gets Us. </span></p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone wp-image-1550 size-full\" src=\"https://content.hegetsus.com/wp-content/uploads/2023/02/Image1-1-2.png\" alt=\"\" width=\"2000\" height=\"1195\" srcset=\"https://content.hegetsus.com/wp-content/uploads/2023/02/Image1-1-2.png 2000w, https://content.hegetsus.com/wp-content/uploads/2023/02/Image1-1-2-300x179.png 300w, https://content.hegetsus.com/wp-content/uploads/2023/02/Image1-1-2-828x495.png 828w, https://content.hegetsus.com/wp-content/uploads/2023/02/Image1-1-2-768x459.png 768w, https://content.hegetsus.com/wp-content/uploads/2023/02/Image1-1-2-1536x918.png 1536w, https://content.hegetsus.com/wp-content/uploads/2023/02/Image1-1-2-1200x717.png 1200w, https://content.hegetsus.com/wp-content/uploads/2023/02/Image1-1-2-1400x837.png 1400w\" sizes=\"(max-width: 2000px) 100vw, 2000px\" /></p>\n<p><span style=\"font-weight: 400;\">We’ve done a lot of homework on our culture. We researched how people feel about each other and what they think about Jesus and Christianity. We’ve connected with thousands of people of various faith traditions and those who claim no religion. We spoke to all kinds of people — different backgrounds, beliefs, and, yes, political affiliations. And this is what we’ve learned: From politics to sexuality and religion, so many of us feel like our values, beliefs, and identities are under attack by the ideological “others” around us. Many perceive those who differ with them on issues of justice, dignity, and humanity as not just wrong or misguided but also as evil. As enemies. We often see these “others” as close-minded, selfish, hypocritical — and if we’re honest, many of us respond in kind. </span></p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone wp-image-638 size-full\" src=\"https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-1-3.png\" alt=\"\" width=\"1800\" height=\"725\" srcset=\"https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-1-3.png 1800w, https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-1-3-300x121.png 300w, https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-1-3-1200x483.png 1200w, https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-1-3-768x309.png 768w, https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-1-3-1536x619.png 1536w, https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-1-3-1400x564.png 1400w\" sizes=\"(max-width: 1800px) 100vw, 1800px\" /></p>\n<p><span style=\"font-weight: 400;\">The more ideologically defensive we become, the more we are willing to sacrifice things like kindness, patience, and the respect and dignity of others for the sake of victory — the righteous ends justifying the dehumanizing means. And it’s tearing us apart. We experience it in politics, in the workplace, in schools, and even in churches. And at the heart of the conflicts is a fundamental disagreement about what it means to be good. </span></p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone wp-image-636 size-full\" src=\"https://content.hegetsus.com/wp-content/uploads/2023/02/Headline-2-3.png\" alt=\"\" width=\"1800\" height=\"250\" srcset=\"https://content.hegetsus.com/wp-content/uploads/2023/02/Headline-2-3.png 1800w, https://content.hegetsus.com/wp-content/uploads/2023/02/Headline-2-3-300x42.png 300w, https://content.hegetsus.com/wp-content/uploads/2023/02/Headline-2-3-1200x167.png 1200w, https://content.hegetsus.com/wp-content/uploads/2023/02/Headline-2-3-768x107.png 768w, https://content.hegetsus.com/wp-content/uploads/2023/02/Headline-2-3-1536x213.png 1536w, https://content.hegetsus.com/wp-content/uploads/2023/02/Headline-2-3-1400x194.png 1400w\" sizes=\"(max-width: 1800px) 100vw, 1800px\" /></p>\n<p><span style=\"font-weight: 400;\">Throughout our shared history, Jesus has represented the ultimate good that humankind is capable of aspiring to. And though some no longer believe in God, most are still compelled by the idea of a person capable of unconditional love for others despite their differences. But many of us simply cannot reconcile the idea of that person with the way our culture experiences religion today. Whether it’s hypocrisy and discrimination in the church, or scandals both real and perceived among religious leaders, or the polarization of our politics, many have relegated Jesus from the world’s greatest love story to just another tactic used to intensify our deep cultural divisions. </span></p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone wp-image-639 size-full\" src=\"https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-2-3.png\" alt=\"\" width=\"1800\" height=\"1200\" srcset=\"https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-2-3.png 1800w, https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-2-3-300x200.png 300w, https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-2-3-743x495.png 743w, https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-2-3-768x512.png 768w, https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-2-3-1536x1024.png 1536w, https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-2-3-600x400.png 600w, https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-2-3-1200x800.png 1200w, https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-2-3-1400x933.png 1400w\" sizes=\"(max-width: 1800px) 100vw, 1800px\" /></p>\n<p><span style=\"font-weight: 400;\">How did we get here? And what might we learn from the example of Jesus to help move beyond the  animosity we feel for one another? How can we rediscover the life and teachings of Jesus, the world’s most radical love activist? That is our agenda at He Gets Us: to move beyond the mess of our current cultural moment to a place where all of us are invited to rediscover the love story of Jesus. Christians, non-Christians, and everybody in between. All of us.</span></p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone wp-image-640 size-full\" src=\"https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-3-3.png\" alt=\"\" width=\"1800\" height=\"725\" srcset=\"https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-3-3.png 1800w, https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-3-3-300x121.png 300w, https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-3-3-1200x483.png 1200w, https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-3-3-768x309.png 768w, https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-3-3-1536x619.png 1536w, https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-3-3-1400x564.png 1400w\" sizes=\"(max-width: 1800px) 100vw, 1800px\" /></p>\n<p><span style=\"font-weight: 400;\">He Gets Us is a diverse group of Jesus followers with a wide variety of faith journeys and lived experiences. Our work represents the input from Christians who believe that Jesus is the son of God as well as many others who, though not Christians, share a deep admiration for the man that Jesus was, and we are deeply inspired and curious to explore his story. We look at the biography of Jesus through a modern lens to find new relevance in often overlooked moments and themes from his life. If you’d like to join us, you’re invited. Below you’ll find several resources to explore the story of Jesus for yourself. </span></p>\n",
+                        "posts": {
+                            "__typename": "Post_Posts",
+                            "audio": {
+                                "__typename": "MediaItem",
+                                "guid": "https://content.hegetsus.com/wp-content/uploads/2023/08/he-gets-us-has-an-agenda.m4a"
+                            },
+                            "video": null,
+                            "featureImageMobile": null,
+                            "showVideoHorizontal": true,
+                            "subHeader": "We've been accused of pushing \"our agenda.\" We thought this might be the right time to make that \"agenda\" perfectly clear.",
+                            "headerImage": {
+                                "__typename": "MediaItem",
+                                "altText": "",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2023/02/Header-Image.png"
+                            }
+                        }
+                    }, {
+                        "__typename": "Post",
+                        "featuredImage": {
+                            "__typename": "NodeWithFeaturedImageToMediaItemConnectionEdge",
+                            "node": {
+                                "__typename": "MediaItem",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2023/12/Hard-to-Say-Featured-image.jpg",
+                                "altText": ""
+                            }
+                        },
+                        "tags": {
+                            "__typename": "PostToTagConnection",
+                            "nodes": [{
+                                "__typename": "Tag",
+                                "name": "Forgiveness",
+                                "slug": "forgiveness",
+                                "id": "dGVybToyMDI="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "HardToSay",
+                                "slug": "hardtosay",
+                                "id": "dGVybTo3OTc="
+                            }]
+                        },
+                        "uri": "/jesus-taught-us-to-say-hard-things/",
+                        "id": "cG9zdDoxNTcy",
+                        "postId": 1572,
+                        "title": "Jesus taught us to say hard things.",
+                        "content": "<p>Living out the traits Jesus valued usually means saying things that are incredibly difficult to say. Scroll down to learn more.</p>\n",
+                        "posts": {
+                            "__typename": "Post_Posts",
+                            "audio": null,
+                            "video": "https://www.youtube.com/watch?v=Whm_-aL9HmI",
+                            "featureImageMobile": null,
+                            "showVideoHorizontal": true,
+                            "subHeader": "I’m sorry, I forgive you, I love you—saying some of these might feel like speaking a second language. Why did Jesus say they were important?",
+                            "headerImage": {
+                                "__typename": "MediaItem",
+                                "altText": "",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2023/12/Hard-to-Say-Header.jpg"
+                            }
+                        }
+                    }, {
+                        "__typename": "Post",
+                        "featuredImage": {
+                            "__typename": "NodeWithFeaturedImageToMediaItemConnectionEdge",
+                            "node": {
+                                "__typename": "MediaItem",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2023/02/Thumbnail-1-e1677181853975.png",
+                                "altText": ""
+                            }
+                        },
+                        "tags": {
+                            "__typename": "PostToTagConnection",
+                            "nodes": [{
+                                "__typename": "Tag",
+                                "name": "Hope",
+                                "slug": "hope",
+                                "id": "dGVybToxNzQ="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "Inclusive",
+                                "slug": "inclusive",
+                                "id": "dGVybToxOTA="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "Love",
+                                "slug": "love",
+                                "id": "dGVybToyMDQ="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "Relationships",
+                                "slug": "relationships",
+                                "id": "dGVybToxODY="
+                            }]
+                        },
+                        "uri": "/ailove/",
+                        "id": "cG9zdDo1ODY=",
+                        "postId": 586,
+                        "title": "How does artificial intelligence imagine Jesus’ love?",
+                        "content": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-880\" src=\"https://content.hegetsus.com/wp-content/uploads/2023/02/AILoveHeadlines-01.png\" alt=\"\" width=\"3750\" height=\"261\" srcset=\"https://content.hegetsus.com/wp-content/uploads/2023/02/AILoveHeadlines-01.png 3750w, https://content.hegetsus.com/wp-content/uploads/2023/02/AILoveHeadlines-01-300x21.png 300w, https://content.hegetsus.com/wp-content/uploads/2023/02/AILoveHeadlines-01-1200x84.png 1200w, https://content.hegetsus.com/wp-content/uploads/2023/02/AILoveHeadlines-01-768x53.png 768w, https://content.hegetsus.com/wp-content/uploads/2023/02/AILoveHeadlines-01-1536x107.png 1536w, https://content.hegetsus.com/wp-content/uploads/2023/02/AILoveHeadlines-01-2048x143.png 2048w, https://content.hegetsus.com/wp-content/uploads/2023/02/AILoveHeadlines-01-1400x97.png 1400w\" sizes=\"(max-width: 3750px) 100vw, 3750px\" /></p>\n<p>Artificial intelligence has captured much of the world’s attention in recent months. ChatGPT, DALL-E, Midjourney—these tools have all made quite the splash. Some of us have adopted them with open arms looking for ways to make things more efficient, some of us have kept them at an arm’s length, weary of the ethicality of it all.</p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-885\" src=\"https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-1-9.png\" alt=\"\" width=\"1800\" height=\"750\" srcset=\"https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-1-9.png 1800w, https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-1-9-300x125.png 300w, https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-1-9-1188x495.png 1188w, https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-1-9-768x320.png 768w, https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-1-9-1536x640.png 1536w, https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-1-9-1200x500.png 1200w, https://content.hegetsus.com/wp-content/uploads/2023/02/Quote-1-9-1400x583.png 1400w\" sizes=\"(max-width: 1800px) 100vw, 1800px\" /></p>\n<p>We’re personally still trying to make sense of where AI fits and how it can and should be used, but we figured we’d try to take some cues from Jesus. It struck us, Jesus used the tools available to him in redemptive ways. Roman roads were built by occupiers to move armies—Jesus used them to travel far and wide sharing his message. A simple boat built for fishing—Jesus used it as a platform from which to speak. Twelve ragtag, ordinary people with messy pasts—Jesus placed them at the center of the work he was doing. Jesus was less interested in what the world said about a person or thing and more about how it could show the kind of love he was interested in. So this video was our attempt to do the same. Whether AI is messy, confusing, harmless, or not, how could we use it to talk about the kind of love Jesus talked about?</p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-881\" src=\"https://content.hegetsus.com/wp-content/uploads/2023/02/AILoveHeadlines-02.png\" alt=\"\" width=\"3750\" height=\"261\" srcset=\"https://content.hegetsus.com/wp-content/uploads/2023/02/AILoveHeadlines-02.png 3750w, https://content.hegetsus.com/wp-content/uploads/2023/02/AILoveHeadlines-02-300x21.png 300w, https://content.hegetsus.com/wp-content/uploads/2023/02/AILoveHeadlines-02-1200x84.png 1200w, https://content.hegetsus.com/wp-content/uploads/2023/02/AILoveHeadlines-02-768x53.png 768w, https://content.hegetsus.com/wp-content/uploads/2023/02/AILoveHeadlines-02-1536x107.png 1536w, https://content.hegetsus.com/wp-content/uploads/2023/02/AILoveHeadlines-02-2048x143.png 2048w, https://content.hegetsus.com/wp-content/uploads/2023/02/AILoveHeadlines-02-1400x97.png 1400w\" sizes=\"(max-width: 3750px) 100vw, 3750px\" /></p>\n<p>We started by asking an artificial intelligence image generator to show us pictures of “love.” Just a one-word prompt. The results were very abstract, flowery, and fake. At first, we were disappointed in the AI, but then we realized the AI is trained on real images out in the real world — if the AI’s depiction of love feels fake, it’s because fake love is what we’ve shown it. So, we regrouped and tried something else. We gave the AI text prompts that were simply Jesus’ own words describing love. We were floored by the results. Not because they’re perfect—some of the images are admittedly haunting, others a bit surreal, but they are all reflective of a deeper, more real love than what we got out of the AI before—a love that is active, selfless, and difficult.</p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-882\" src=\"https://content.hegetsus.com/wp-content/uploads/2023/02/AILoveQuote2.png\" alt=\"\" width=\"3750\" height=\"1985\" srcset=\"https://content.hegetsus.com/wp-content/uploads/2023/02/AILoveQuote2.png 3750w, https://content.hegetsus.com/wp-content/uploads/2023/02/AILoveQuote2-300x159.png 300w, https://content.hegetsus.com/wp-content/uploads/2023/02/AILoveQuote2-935x495.png 935w, https://content.hegetsus.com/wp-content/uploads/2023/02/AILoveQuote2-768x407.png 768w, https://content.hegetsus.com/wp-content/uploads/2023/02/AILoveQuote2-1536x813.png 1536w, https://content.hegetsus.com/wp-content/uploads/2023/02/AILoveQuote2-2048x1084.png 2048w, https://content.hegetsus.com/wp-content/uploads/2023/02/AILoveQuote2-1200x635.png 1200w, https://content.hegetsus.com/wp-content/uploads/2023/02/AILoveQuote2-1400x741.png 1400w\" sizes=\"(max-width: 3750px) 100vw, 3750px\" /></p>\n<p>You see Jesus didn’t just love his friends and family. He loved the sick, the poor, the people he knew wouldn’t love him back, he even loved the people who tortured and killed him. He loved them all at their best and at their worst. That kind of love is complex and hard to fathom, impossible to fully capture in 1 picture or 1000, but still he lived it out.</p>\n<p>We’re still not sure what to think of all this new AI stuff, but for us, visualizing Jesus’ love in comparison to the commercialized, fluffy, romantic love we’re inundated with was a confirmation that what Jesus spoke about and lived out is worth emulating.</p>\n<p>*All the images shown were created using Midjourney. All text prompts shown are the real text prompts used for each corresponding image.</p>\n",
+                        "posts": {
+                            "__typename": "Post_Posts",
+                            "audio": null,
+                            "video": "https://www.youtube.com/watch?v=cUngI7QyeHY&ab_channel=HeGetsUs",
+                            "featureImageMobile": null,
+                            "showVideoHorizontal": true,
+                            "subHeader": "We came up with a plan to get the AI to help us define real love — and what better way than to use Jesus’ own words in describing what it means to love?",
+                            "headerImage": {
+                                "__typename": "MediaItem",
+                                "altText": "",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2023/02/Header-1.png"
+                            }
+                        }
+                    }]
+                }
+            }
+        }, {
+            "node": {
+                "__typename": "Tag",
+                "id": "dGVybToxODY=",
+                "name": "Relationships",
+                "slug": "relationships",
+                "trendingTopic": {
+                    "__typename": "Tag_Trendingtopic",
+                    "trendingTopics": true,
+                    "postsFeatured": [{
+                        "__typename": "Post",
+                        "featuredImage": {
+                            "__typename": "NodeWithFeaturedImageToMediaItemConnectionEdge",
+                            "node": {
+                                "__typename": "MediaItem",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2022/08/thumb-Jesus-invited-everyone-to-sit-at-his-table.jpg",
+                                "altText": ""
+                            }
+                        },
+                        "tags": {
+                            "__typename": "PostToTagConnection",
+                            "nodes": [{
+                                "__typename": "Tag",
+                                "name": "Activist",
+                                "slug": "activist",
+                                "id": "dGVybToxNzE="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "Hope",
+                                "slug": "hope",
+                                "id": "dGVybToxNzQ="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "Inclusive",
+                                "slug": "inclusive",
+                                "id": "dGVybToxOTA="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "Love",
+                                "slug": "love",
+                                "id": "dGVybToyMDQ="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "Relationships",
+                                "slug": "relationships",
+                                "id": "dGVybToxODY="
+                            }]
+                        },
+                        "uri": "/jesus-invited-everyone-to-sit-at-his-table/",
+                        "id": "cG9zdDoxOTc=",
+                        "postId": 197,
+                        "title": "Jesus invited everyone to sit at his table",
+                        "content": "<p>We were looking at the life of Jesus to see who he really was, and we noticed something peculiar: he spent a lot of time around the dinner table. Many of his most frequently quoted messages and standout stories happened while sharing a meal with others. As we looked closer, we noticed that his company around the table was a remarkably diverse cast. He shared meals with outcasts. He spent time with the self-righteous religious elite. He cared for people who had broken every rule and were seen as unclean. He dined at the tables of the wealthy men whose riches were won with lies and corruption. Some of those men gave up comfortable lifestyles to follow him. He crossed racial boundaries to the shock of many around him. He invited everyone to the table. When asked why he did so, he replied, “… I came into the world, to testify to the truth. Everyone on the side of truth listens to me.&#8221;</p>\n<p>It was radical at the time. No one was that inclusive. The religious do-gooders began to whisper behind his back. They called him a friend of sinners. It was supposed to be an insult, but Jesus wore it proudly. He was a friend to everyone. And what do friends do? They eat dinner together and share in each other’s lives.</p>\n<p>Strangers eating together and becoming friends. What a simple concept, and yet, we’re pretty sure it would turn our own modern world upside down the same way Jesus turned his around 2,000 years ago. That’s really why we made this video in the first place. We see division and broken relationships everywhere. We see judgment and hypocrisy on the rise. We see people who claim to be followers of Jesus taking his open invite and turning it into an exclusive club.</p>\n<p>The name of Jesus has been used to harm and divide, but if you look at how he lived, you see how backward that really is. Jesus was not exclusive. He was radically inclusive. What would our world look like if that were the norm? If strangers became friends over the dinner table as they did around Jesus?</p>\n",
+                        "posts": {
+                            "__typename": "Post_Posts",
+                            "audio": null,
+                            "video": "https://www.youtube.com/watch?v=rUUG3aXWiA0&ab_channel=HeGetsUs",
+                            "featureImageMobile": null,
+                            "showVideoHorizontal": true,
+                            "subHeader": "Jesus spent a lot of time around the dinner table. Many of his most frequently quoted messages and standout stories happened while sharing a meal with others. And the company around the table was a remarkably diverse cast. Why?",
+                            "headerImage": {
+                                "__typename": "MediaItem",
+                                "altText": "",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2022/08/header-Jesus-invited-everyone-to-sit-at-his-table-min.jpg"
+                            }
+                        }
+                    }, {
+                        "__typename": "Post",
+                        "featuredImage": {
+                            "__typename": "NodeWithFeaturedImageToMediaItemConnectionEdge",
+                            "node": {
+                                "__typename": "MediaItem",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2024/01/WATW-Featured-image.png",
+                                "altText": ""
+                            }
+                        },
+                        "tags": {
+                            "__typename": "PostToTagConnection",
+                            "nodes": [{
+                                "__typename": "Tag",
+                                "name": "Inclusive",
+                                "slug": "inclusive",
+                                "id": "dGVybToxOTA="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "Judgment",
+                                "slug": "judgment",
+                                "id": "dGVybToxODQ="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "Women",
+                                "slug": "women",
+                                "id": "dGVybToxODg="
+                            }]
+                        },
+                        "uri": "/how-did-jesus-step-over-barriers-of-race-gender-and-stigma-on-the-side-of-the-road/",
+                        "id": "cG9zdDoxNjA4",
+                        "postId": 1608,
+                        "title": "How did Jesus step over barriers of race, gender, and stigma on the side of the road?",
+                        "content": "<p>On a route between two cities, Jesus passed through Samaria. Most Jewish people would have gone around to avoid it, but Jesus went right through. While there, he had an incredibly important conversation with a woman who never would have expected to speak with him because he was Jewish, because he was a man, and because she was a bit of an outcast. The woman was totally caught off guard. To her, Jesus was a man who was breaking all sorts of boundaries to talk to her. To him, it seems she was worthy of so much more respect and kindness than anyone ever showed her. It might not seem like much, but this unlikely conversation set the stage for Jesus to live out and share his message of radical love and selflessness and to invite the most unlikely of people to play a part in it all.</p>\n",
+                        "posts": {
+                            "__typename": "Post_Posts",
+                            "audio": null,
+                            "video": "https://www.youtube.com/watch?v=DylIFHJacV4",
+                            "featureImageMobile": null,
+                            "showVideoHorizontal": true,
+                            "subHeader": "On a journey from city to city, Jesus took an unlikely path through a place most would have avoided, and he had a conversation there that made it very clear where his priorities lay.\r\n",
+                            "headerImage": {
+                                "__typename": "MediaItem",
+                                "altText": "",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2024/01/WATW-image-1.png"
+                            }
+                        }
+                    }, {
+                        "__typename": "Post",
+                        "featuredImage": {
+                            "__typename": "NodeWithFeaturedImageToMediaItemConnectionEdge",
+                            "node": {
+                                "__typename": "MediaItem",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2022/12/Header-Image-1-e1670306376759.png",
+                                "altText": ""
+                            }
+                        },
+                        "tags": {
+                            "__typename": "PostToTagConnection",
+                            "nodes": [{
+                                "__typename": "Tag",
+                                "name": "RealLife",
+                                "slug": "reallife",
+                                "id": "dGVybToxNzA="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "Relationships",
+                                "slug": "relationships",
+                                "id": "dGVybToxODY="
+                            }]
+                        },
+                        "uri": "/was-jesus-family-perfect/",
+                        "id": "cG9zdDo0NDU=",
+                        "postId": 445,
+                        "title": "Was Jesus’ family perfect?",
+                        "content": "<p>When it comes to family, there’s an interesting continuity that nestles itself into every family dynamic on the planet, no matter the cultural background — at some point and on some level, they’re going to be dysfunctional. Of course, the degree of dysfunctionality varies, but it’s always there, rearing its head around the holiday dinner table and even at larger gatherings like weddings or reunions.</p>\n<p>What boggles the mind even further is the fact that this dysfunctionality has always been present throughout the course of our history on this planet, and nobody is exempt from it, not even Jesus. He had a family who loved him but also attempted to undermine him. There is a moment in the Scriptures where Jesus was speaking to a large crowd, making claims that probably made his family uncomfortable. Be it the scale of his ministry or the direction of it, his family did not approve. Once they caught wind of what he was saying to the crowd, they tried to quiet him and pull him away from the crowd by asserting that he had lost his mind. Jesus responded by declaring that his purpose and devotion to God came before his family.</p>\n<p>Imagine being so passionate about your ideas that you want to share them with others, only to have your family shoot them down and call you crazy in a public setting for hundreds to see. Perhaps you don’t have to imagine because you know what it feels like when family doesn’t believe in your direction in life or attempts to cut your dreams down at the ankles. Ring any bells? Unfortunately, family dysfunction is something most of us know a little too well, or at least more than we’d care to admit.</p>\n<p>This was a singular instance, but Jesus behaved boldly and held radical ideas, and it’s likely that he had other moments of contention with his immediate family because of this, but there’s another consideration to keep in mind — his lineage. If you look at the genealogy of Jesus, you’ll see he came from a mixed bag. His oldest known relative, Abraham, was a peaceful immigrant who set forth on a dangerous journey to establish a new nation. Noble, right?</p>\n<p>Sure, but one of his great-grandmothers disguised herself as a sex worker and tricked her father-in-law into impregnating her. He also had a great-grandfather who abused his power as king to send a man into battle to be killed because he lusted after his wife. There are words to describe their character, too, but noble doesn’t quite come to mind. It is likely that the stories of Jesus’ ancestors were shared with him, and he was well aware of the checkered background from which he came.</p>\n<p>Maybe Jesus had such a large capacity for grace for other people because he came from a dysfunctional family, too. One that doubted him, dismissed him, and had reason to cause him shame, but he didn’t resent them for it. We can’t choose our families, but like Jesus, we can choose to stand firm in our purpose and lead with love. No matter how messy your family situation is, know that you aren’t alone, and you, too, can find healthy ways to deal with the mud.</p>\n",
+                        "posts": {
+                            "__typename": "Post_Posts",
+                            "audio": null,
+                            "video": "https://www.youtube.com/watch?v=YOcglZFlFM8",
+                            "featureImageMobile": null,
+                            "showVideoHorizontal": true,
+                            "subHeader": "We all have a desire to be loved and accepted by our families, but sometimes, our relationships with loved ones can be messy. \r\n\r\n",
+                            "headerImage": {
+                                "__typename": "MediaItem",
+                                "altText": "",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2022/12/Header-Image.png"
+                            }
+                        }
+                    }]
+                }
+            }
+        }, {
+            "node": {
+                "__typename": "Tag",
+                "id": "dGVybToxNzE=",
+                "name": "Activist",
+                "slug": "activist",
+                "trendingTopic": {
+                    "__typename": "Tag_Trendingtopic",
+                    "trendingTopics": true,
+                    "postsFeatured": [{
+                        "__typename": "Post",
+                        "featuredImage": {
+                            "__typename": "NodeWithFeaturedImageToMediaItemConnectionEdge",
+                            "node": {
+                                "__typename": "MediaItem",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2023/04/Thumbnail.png",
+                                "altText": ""
+                            }
+                        },
+                        "tags": {
+                            "__typename": "PostToTagConnection",
+                            "nodes": [{
+                                "__typename": "Tag",
+                                "name": "Hope",
+                                "slug": "hope",
+                                "id": "dGVybToxNzQ="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "Love",
+                                "slug": "love",
+                                "id": "dGVybToyMDQ="
+                            }]
+                        },
+                        "uri": "/jesus-loved-louder/",
+                        "id": "cG9zdDo3Njg=",
+                        "postId": 768,
+                        "title": "Jesus loved louder.",
+                        "content": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-1009\" src=\"https://newstaging2stg.wpengine.com/wp-content/uploads/2023/04/LovedLouderHeadlines-01.png\" alt=\"\" width=\"3750\" height=\"261\" />Listening to the world around us, we couldn’t help but come to the conclusion that the volume is rising day by day. If you listen to the news, you hear louder voices, stronger opinions, and harsher disagreements. If you scroll through your social feeds, you see arguments in the comment section of the most benign posts. Everyone wants to be heard, and collectively, we seem to be going to greater and greater lengths to be the one voice loud enough to be made out above the din.</p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-1011\" src=\"https://newstaging2stg.wpengine.com/wp-content/uploads/2023/04/LovedLouderQuote1.png\" alt=\"\" width=\"3750\" height=\"2400\" />But as we listened, we noticed that most of what gets amplified — most of the stuff loud enough to be heard — is rife with hate, anger, and discontentment. And when hate gets amplified, too often, we try to drown it out with even louder hate from a different perspective. It’s a vicious cycle, and it’s one Jesus dealt with 2,000 years ago.</p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-1112\" src=\"https://newstaging2stg.wpengine.com/wp-content/uploads/2023/04/LovedLouderQuote-2-1.png\" alt=\"\" width=\"1800\" height=\"750\" />Everywhere he went, he was met with dissenting opinions, trap questions, and directed hatred. People were constantly trying to silence him, discredit him, or hijack his platform to amplify their own voices. It must have been infuriating, but he didn’t give in and add to the noise. Jesus used his voice, but he didn’t shout. He not only stayed on the path of preaching patience, selflessness, and love but more importantly, he also demonstrated them. He responded to the ever-increasing volume of hate with quiet and deliberate acts of love. And the result is evident in the fact that we’re still talking about it 2,000 years later: his love was louder, and it still is.</p>\n",
+                        "posts": {
+                            "__typename": "Post_Posts",
+                            "audio": null,
+                            "video": "https://www.youtube.com/watch?v=hcmVa8uNu7k",
+                            "featureImageMobile": null,
+                            "showVideoHorizontal": true,
+                            "subHeader": "Jesus heard the hate getting louder, too. But he didn’t shout against it; he did something else.",
+                            "headerImage": {
+                                "__typename": "MediaItem",
+                                "altText": "",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2023/04/Header.png"
+                            }
+                        }
+                    }, {
+                        "__typename": "Post",
+                        "featuredImage": {
+                            "__typename": "NodeWithFeaturedImageToMediaItemConnectionEdge",
+                            "node": {
+                                "__typename": "MediaItem",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2022/12/Artboard-1-7.png",
+                                "altText": ""
+                            }
+                        },
+                        "tags": {
+                            "__typename": "PostToTagConnection",
+                            "nodes": [{
+                                "__typename": "Tag",
+                                "name": "Activist",
+                                "slug": "activist",
+                                "id": "dGVybToxNzE="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "Women",
+                                "slug": "women",
+                                "id": "dGVybToxODg="
+                            }]
+                        },
+                        "uri": "/four-ways-jesus-supported-womens-equality/",
+                        "id": "cG9zdDo0NTQ=",
+                        "postId": 454,
+                        "title": "Four ways Jesus supported women’s equality.",
+                        "content": "<p>We’ve created a lot of ads and messages about Jesus and women’s equality. Mostly because research has uncovered a lot of misconceptions out there regarding Jesus and how he thought about and treated women. It seems some cultural and religious traditions and norms have been conflated with the actual story of Jesus from the Bible (the most comprehensive record of Jesus’ life we have). So let’s explore four ways Jesus promoted women’s equality.</p>\n<p><b>1.) GENEALOGY. Before he was even born. </b></p>\n<p>The Gospels are four different accounts of Jesus’ life written by four of his followers. The first one that appears in most Bibles is written by Matthew. He starts his story the same way many biographical books began back then — by tracing Jesus’ genealogy.</p>\n<p>If you’ve ever read the Bible or other ancient Near Eastern texts, you’ll see this pattern of tracing family trees: “so-and-so begat so-and-so, who begat so-and-so, etc.” We often skip these dry and boring sections of the text. But the genealogies in the Bible and similar ancient texts were less about historical records and more about proving a point about a person’s heritage or their claims to royalty or fortune.</p>\n<p>Matthew includes a few clues in the genealogy that help us understand how Jesus thought about gender equality. He includes five women. That would have been very strange for the time. Stranger still are the women he chose to include as Jesus’ ancestors.</p>\n<p>Tamar: A woman who pretended to be a sex worker to trick her father-in-law into getting her pregnant so she could keep her place in the family after her husband died. We know, it’s a crazy story. But it was really important in their culture at the time that she received justice according to their law. And justice for her was to have a family if she so desired. In fact, her father-in-law, upon realizing what happened, called her “more righteous than I.”</p>\n<p>Rahab: A sex worker/brothel owner who hid spies from Israel and helped them gather intelligence on the defenses of her city, so they could be successful in conquering it.</p>\n<p>Ruth: A widow whose love and loyalty were so confounding, she chose not to pursue the certainty of well-being she could have had by going back to her childhood family home after the death of her husband. Instead, she followed her mother-in-law to a strange land and married a close relative of her husband’s family to secure their welfare (again, it was culturally necessary at the time to ensure survival).</p>\n<p>Bathsheba: A woman who was raped by the king. He saw her bathing and decided he wanted her. So he sent her husband to the front of a bloody war where he was all but guaranteed to die (he did), so he could rationalize his forcing himself on her. She became the king’s wife and experienced the loss of an infant child.</p>\n<p>Mary: An unwed teen mom who, according to the law at the time, could have been stoned to death in the streets. She would no doubt have been gossiped about and ridiculed.</p>\n<p>Of the dozens of women mentioned in Hebrew Scriptures, why were these five women chosen? Is it because they had to do desperate things to survive? Is it because each of them demonstrates different aspects of the plight of gender inequality in most cultures? Is it because they persevered in spite of seemingly impossible circumstances? We don’t know. But the story is certainly trying to tell us something about how we think about and judge women and the role they played in shaping Jesus’ identity.</p>\n<p><b>2.) TALKING. Talking to women you didn’t know was a no-no.</b></p>\n<p>He didn’t care. Jesus addressed women directly and publicly, something that was culturally confounding at the time. It even confused his own followers and closest friends. And he seemed to do it all the time with all kinds of women. Foreigners, enemies, widows, and sex workers, and in every recorded case, he connected with them personally with kindness and grace. In one often-cited case, he spoke to (1.) a Samaritan who was (2.) a woman and who was (3.) collecting water at a well in the heat of the day. Those three details tell us how culturally inappropriate it would have been for him to initiate a conversation. Samaritans were considered almost subhuman by most Jewish people at the time because of their racial impurity. Unknown women were never spoken to because they were traditionally considered property to the men in their lives. And if she’s collecting water by herself in the middle of the day, it likely means she was an outcast even among her own people, as women would generally collect water in the morning to stay cool and together to stay safe. We find out later she was likely an outcast because she’d been with so many men. But Jesus didn’t just speak to her; he asked her for a drink of water! To take water from her, from a vessel that she touched, and to drink it would have been unthinkable. But it demonstrated to his followers and all who heard the story that his movement would require people to think differently.</p>\n<p><b>3.) EQUALITY. Jesus didn’t tolerate double standards.</b></p>\n<p>During his ministry, some men brought a woman before Jesus. They accused her of adultery and then quoted the laws that said she should be killed. He successfully defended a woman from being executed publicly for committing adultery. They were looking for Jesus to condemn her as well. But he didn’t. You see, adultery is one of those things that requires two participants. But they didn’t bring the man caught in adultery before Jesus, just the woman. The whole situation reeked of hypocrisy, and Jesus had very little patience for hypocritical men when it came to sexual infractions of his day. So, he stepped in and protected the woman. He wouldn’t stand for the double standards.</p>\n<p><b>4.) FOLLOWERS. Some of his first and most important followers were women.</b></p>\n<p>Mary Magdalene is mentioned in the stories of Jesus more often than just about any other follower, including the other men in his inner circle known as the apostles. She is a central figure in just about every significant moment in his story.</p>\n<p>Mary the sister of Martha (a different Mary than Mary Magdalene) is depicted sitting at Jesus’ feet listening to his teachings. While that might seem very insignificant, that posture is reserved for disciples listening to their Rabbis. In that time, Rabbis didn’t take on women as disciples. It just didn’t happen. Jesus didn’t just allow it, he encouraged it.</p>\n<p>Joanna was another loyal follower. She was married to a wealthy official named Chuza, whom the Bible identifies as a critical member of the government that would eventually have Jesus delivered to the occupying Roman forces for execution. Joanna and other wealthy women bankrolled Jesus’ mission. That’s right. Jesus’ love movement was funded by women.</p>\n<p>Though some have tried to minimize their critical role in the creation of Jesus’ radical love movement, there’s no question women were essential.</p>\n",
+                        "posts": {
+                            "__typename": "Post_Posts",
+                            "audio": null,
+                            "video": null,
+                            "featureImageMobile": null,
+                            "showVideoHorizontal": true,
+                            "subHeader": "One of the most radical elements of Jesus’ love campaign was his partnership with women. Partnership as in equal. During his day, women were not allowed to have leadership roles, but Jesus looked past this arbitrary tradition. He defied the status quo, and championed women anyway.",
+                            "headerImage": {
+                                "__typename": "MediaItem",
+                                "altText": "",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2022/12/Artboard-2-7.png"
+                            }
+                        }
+                    }, {
+                        "__typename": "Post",
+                        "featuredImage": {
+                            "__typename": "NodeWithFeaturedImageToMediaItemConnectionEdge",
+                            "node": {
+                                "__typename": "MediaItem",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2022/10/Thumbnail.png",
+                                "altText": ""
+                            }
+                        },
+                        "tags": {
+                            "__typename": "PostToTagConnection",
+                            "nodes": [{
+                                "__typename": "Tag",
+                                "name": "Activist",
+                                "slug": "activist",
+                                "id": "dGVybToxNzE="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "Justice",
+                                "slug": "justice",
+                                "id": "dGVybToxNzM="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "RealLife",
+                                "slug": "reallife",
+                                "id": "dGVybToxNzA="
+                            }]
+                        },
+                        "uri": "/jesus-was-fed-up-with-politics-too/",
+                        "id": "cG9zdDozOTk=",
+                        "postId": 399,
+                        "title": "Jesus was fed up with politics, too.",
+                        "content": "<p>In Jesus’ time, communities were deeply divided by bitter differences in religious beliefs, political positions, income inequality, legal status, and ethnic differences. Sound familiar?</p>\n<p>Jesus lived in the middle of a culture war, too. And though the political systems were different (not exactly a representative democracy), the greed, hypocrisy, and oppression different groups used to get their way were very similar.</p>\n<p>Let’s set the scene.</p>\n<p>Jesus was born at the height of the Roman Empire’s power. They’d conquered most of the known world, and Israel was no exception. Unlike previous empires that would try to destroy cultures by displacing conquered peoples’ leaders, the Romans didn’t force people to change their religion or customs as long as they kept their obligations to the empire. Rome would install a client king (a puppet government) and exact tribute (cash) in lots of different ways. Families were charged taxes per person—farmers on crops, fishermen on catches, and travelers were charged fees to use the roads. This was in addition to local business and religious taxes charged by priests.</p>\n<p>In Israel, political and religious factions were one and the same. Back then, it was Pharisees and Sadducees. Today, we have conservatives and liberals.</p>\n<p>The Pharisees were the most religiously conservative leaders. They had the most influence among the common working poor, who were the majority. They believed that a king would come one day to conquer Rome with violence and free their nation. Some preyed upon a mostly illiterate population by adding extra rules and requirements that were designed to force the working poor into a posture of subjugation.</p>\n<p>The Sadducees were wealthy aristocrats who had a vested financial interest in Roman rule. They were in charge of the temple, and they didn’t believe any savior king was coming. They made themselves wealthy by exacting unfair taxes and fees from the labor of their own people and by contriving money-making schemes that forced the poor to pay exorbitant prices to participate in temple sacrifice—a critical part of their religion.</p>\n<p>There were Zealot groups who hid in the hills and violently resisted Roman occupation, and then there were the Samaritans, often oppressed and marginalized because of their racial and ethnic identities.</p>\n<p>And so, the common farmer, fisherman, or craftsman’s family lived through a highly volatile political period. Overbearing religious leaders who despised and oppressed them, wealthy elites who ripped them off, racial and ethnic tension with neighbors, and sporadic violent outbreaks between an oppressive occupying army.</p>\n<p>So where was Jesus in all of this? Did he align with the religious elites? With the wealthy and powerful? Or did he start an uprising to overthrow them?</p>\n<p>None of the above.</p>\n<p>He went from town to town, offering hope, new life, and modeling a different way to live and to change the world. Instead of pursuing power, money, or religious authority, he shared a loving and sacrificially generous way of living. He chose not to go along with the schemes others used to impact the world. Instead, he championed a better way.</p>\n<p>And so, each of these political groups saw him as a threat. The Pharisees recognized his movement as an affront to their authority—exposing the hypocrisy of their practices. The Sadducees saw Jesus as a threat to their power and wealth because he exposed their money-making schemes. The Zealots violently rejected one of the essential themes of Jesus’ movement: love your enemy.</p>\n<p>In the end, it took all three of these groups to have him killed. A Zealot (Judas) betrayed his location to those seeking to arrest him, the Sadducees brought him before the Romans to be executed, and when the Romans couldn’t find a crime committed, the Pharisees rallied the people to force Rome’s hand.</p>\n<p>Isn’t it funny how political foes can come together to destroy a common enemy that threatens their designs? But in spite of their best efforts, his execution was only the beginning of a movement that continues to impact the world thousands of years later. Jesus’ movement was so impactful because he actively resisted and rejected participating in culture-war politics.</p>\n",
+                        "posts": {
+                            "__typename": "Post_Posts",
+                            "audio": null,
+                            "video": null,
+                            "featureImageMobile": null,
+                            "showVideoHorizontal": true,
+                            "subHeader": "Jesus lived in the middle of a culture war, too. And though the politics were different, the contention, debate and animosity were similar.",
+                            "headerImage": {
+                                "__typename": "MediaItem",
+                                "altText": "",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2022/10/Header.png"
+                            }
+                        }
+                    }]
+                }
+            }
+        }, {
+            "node": {
+                "__typename": "Tag",
+                "id": "dGVybToxNzQ=",
+                "name": "Hope",
+                "slug": "hope",
+                "trendingTopic": {
+                    "__typename": "Tag_Trendingtopic",
+                    "trendingTopics": true,
+                    "postsFeatured": [{
+                        "__typename": "Post",
+                        "featuredImage": {
+                            "__typename": "NodeWithFeaturedImageToMediaItemConnectionEdge",
+                            "node": {
+                                "__typename": "MediaItem",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2023/10/MicrosoftTeams-image-9.jpg",
+                                "altText": ""
+                            }
+                        },
+                        "tags": {
+                            "__typename": "PostToTagConnection",
+                            "nodes": []
+                        },
+                        "uri": "/jesus-experienced-every-human-emotion/",
+                        "id": "cG9zdDoxMTM0",
+                        "postId": 1134,
+                        "title": "Jesus experienced every human emotion.",
+                        "content": "<p>Jesus is often shrouded in misconception. He certainly was in his day and even more so now. There’s a tendency for some to think of him as a historical figure of the past whose sole mode of expression was stoicism. For others, it’s tempting to imagine him as some long-haired, hippy who spent the majority of his days hugging and loving everyone.</p>\n<p>Neither of those pictures paints an entirely accurate representation of who Jesus was. Truth is, Jesus felt. Like you and I, he experienced a range of emotions. The good and the ugly. This is why He Gets Us. Scroll for a deeper dive into how Jesus experienced emotions below.</p>\n",
+                        "posts": {
+                            "__typename": "Post_Posts",
+                            "audio": null,
+                            "video": null,
+                            "featureImageMobile": null,
+                            "showVideoHorizontal": true,
+                            "subHeader": "Truth is, Jesus felt. Like you and I, he experienced a range of emotions. The good and the ugly.",
+                            "headerImage": {
+                                "__typename": "MediaItem",
+                                "altText": "",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2023/10/Header-12.png"
+                            }
+                        }
+                    }, {
+                        "__typename": "Post",
+                        "featuredImage": {
+                            "__typename": "NodeWithFeaturedImageToMediaItemConnectionEdge",
+                            "node": {
+                                "__typename": "MediaItem",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2023/11/ConvoCards_1.png",
+                                "altText": ""
+                            }
+                        },
+                        "tags": {
+                            "__typename": "PostToTagConnection",
+                            "nodes": [{
+                                "__typename": "Tag",
+                                "name": "Hope",
+                                "slug": "hope",
+                                "id": "dGVybToxNzQ="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "Inclusive",
+                                "slug": "inclusive",
+                                "id": "dGVybToxOTA="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "Relationships",
+                                "slug": "relationships",
+                                "id": "dGVybToxODY="
+                            }]
+                        },
+                        "uri": "/listen-louder-the-game/",
+                        "id": "cG9zdDoxNTA1",
+                        "postId": 1505,
+                        "title": "Listen Louder—the game.",
+                        "content": "<p>Listen Louder is a card game designed to help people get to know each other in deep and meaningful ways. You see, we were looking at the life of Jesus and noticed a couple of things: one, he spent a lot of time talking with people. And two, he used those conversations to get to know people deeply and push them to live selfless lives. A lot of us have part one of the equation covered, but we don’t even know where to start with the second part.</p>\n<p>Our hope is that this game would be a starting point. Flip cards with friends and listen to each other answer the kinds of questions Jesus might’ve asked, and complete challenges together that reflect his life lived fully and selflessly. There are no points, no scoring, no winning or losing—just some friends or strangers getting to know each other on a deeper level and stepping outside of their comfort zones together. This is your chance to be heard, but it’s also your chance to listen.</p>\n",
+                        "posts": {
+                            "__typename": "Post_Posts",
+                            "audio": null,
+                            "video": null,
+                            "featureImageMobile": null,
+                            "showVideoHorizontal": true,
+                            "subHeader": "Flip cards with friends and listen to each other answer the kinds of questions Jesus might’ve asked, and complete challenges together that reflect his life lived fully and selflessly.",
+                            "headerImage": {
+                                "__typename": "MediaItem",
+                                "altText": "",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2023/11/banner-conversation-card-v2-min.jpg"
+                            }
+                        }
+                    }, {
+                        "__typename": "Post",
+                        "featuredImage": {
+                            "__typename": "NodeWithFeaturedImageToMediaItemConnectionEdge",
+                            "node": {
+                                "__typename": "MediaItem",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2023/10/MicrosoftTeams-image-11.jpg",
+                                "altText": ""
+                            }
+                        },
+                        "tags": {
+                            "__typename": "PostToTagConnection",
+                            "nodes": [{
+                                "__typename": "Tag",
+                                "name": "Activist",
+                                "slug": "activist",
+                                "id": "dGVybToxNzE="
+                            }]
+                        },
+                        "uri": "/jesus-was-exclusively-inclusive/",
+                        "id": "cG9zdDoxMTQ1",
+                        "postId": 1145,
+                        "title": "Jesus was exclusively inclusive.",
+                        "content": "<p>Back in Jesus’ time, a respectable Jewish teacher wouldn’t dare consider taking a female student under his instruction. He would also not engage with someone who had a chronic illness or disability, since it was believed to be a testament of poor character and lineage. And never mind having dealings across the ethnic and political barriers that existed then. That, too, was a no-no.</p>\n<p>Yet, Jesus—who, as a religious Jewish teacher, had these expectations tenfold—didn’t follow any of these rules. In fact, he went out of his way to break them.</p>\n<p>Though there are still places today where women, ethnicities, and people with disabilities are openly excluded from society, it may be hard to fully understand how shocking Jesus’ behavior was when, for instance, he comforted a woman because she suffered from years of constant blood flow — a disorder that was considered unclean. Or when, without hesitation, he associated himself with a man sick with leprosy, and another with blindness, and yet another who was paralyzed. Or how about when he engaged in a deep conversation in broad daylight with a woman who came from a people that many likened to dogs, and then went on to visit a Roman man’s home to tend to the sick there.</p>\n<p>Jesus sought to include everyone in his ministry, giving them a place to belong by treating all with value and respect. This meant he crossed the line countless times. One of the more notable instances happened when he befriended a woman who was widely considered to be demon-possessed. Even today, we can imagine how this might’ve gotten tongues wagging. But because of Jesus’ compassion, this woman would go on to find her health and become one of the most influential people associated with him. Her name was Mary Magdalene, and the fact that we know about her over two-thousand years later is a testament to the barriers Jesus successfully erased by simply ignoring them.</p>\n<p>Today, Jesus’ legacy continues to challenge us to be inclusive in a real way, to reach past people’s physical and mental struggles, gender, and ethnicity so that we may really see them. And once we do, we might just find—much like those who knew Mary Magdalene in her time—that the people who are considered the least of us will impact us the most.</p>\n",
+                        "posts": {
+                            "__typename": "Post_Posts",
+                            "audio": null,
+                            "video": null,
+                            "featureImageMobile": null,
+                            "showVideoHorizontal": true,
+                            "subHeader": "They promised Jesus shame, dishonor and scandal if he associated with the margins of society. He did it anyway, and by breaking the rules… he broke the system.\r\n",
+                            "headerImage": {
+                                "__typename": "MediaItem",
+                                "altText": "",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2023/10/MicrosoftTeams-image-10.jpg"
+                            }
+                        }
+                    }]
+                }
+            }
+        }, {
+            "node": {
+                "__typename": "Tag",
+                "id": "dGVybToxNzI=",
+                "name": "Struggle",
+                "slug": "struggle",
+                "trendingTopic": {
+                    "__typename": "Tag_Trendingtopic",
+                    "trendingTopics": true,
+                    "postsFeatured": [{
+                        "__typename": "Post",
+                        "featuredImage": {
+                            "__typename": "NodeWithFeaturedImageToMediaItemConnectionEdge",
+                            "node": {
+                                "__typename": "MediaItem",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2023/09/hgu_mots_website_500x360.jpg",
+                                "altText": ""
+                            }
+                        },
+                        "tags": {
+                            "__typename": "PostToTagConnection",
+                            "nodes": [{
+                                "__typename": "Tag",
+                                "name": "Hope",
+                                "slug": "hope",
+                                "id": "dGVybToxNzQ="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "Inclusive",
+                                "slug": "inclusive",
+                                "id": "dGVybToxOTA="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "Relationships",
+                                "slug": "relationships",
+                                "id": "dGVybToxODY="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "Struggle",
+                                "slug": "struggle",
+                                "id": "dGVybToxNzI="
+                            }]
+                        },
+                        "uri": "/do-you-want-to-be-rich/",
+                        "id": "cG9zdDoxMTE3",
+                        "postId": 1117,
+                        "title": "Do you want to be rich?",
+                        "content": "<p>If someone asked you if you’d like to be rich, the answer for many of us would be, “Of course.” Our society glorifies the wealthy and their expensive things. We imagine our lives would be easier or more glamorous if we had gobs of money. So, we asked random people on the street if they were rich. Their initial reactions were based on their bank account balances or the size of their homes, but upon further reflection, most of them began to recognize that they were rich in other ways –– a wealth that comes from within. Could Jesus, a man with few material possessions, be considered rich? We hope you’ll explore deeper what it means to be rich in the way Jesus taught in <strong><a style=\"text-decoration: underline;\" href=\"https://hegetsus.com/en/articles/the-rich-life\">The Rich Life</a>.</strong></p>\n",
+                        "posts": {
+                            "__typename": "Post_Posts",
+                            "audio": null,
+                            "video": "https://www.youtube.com/watch?v=BaxYRCzpxsQ",
+                            "featureImageMobile": null,
+                            "showVideoHorizontal": true,
+                            "subHeader": "Jesus could have pursued money and wealth, but he elected not to. Why? Maybe he understood there was a better way to achieve the rich life. ",
+                            "headerImage": {
+                                "__typename": "MediaItem",
+                                "altText": "",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2023/09/hgu_mots_website_header_1200x500.jpg"
+                            }
+                        }
+                    }, {
+                        "__typename": "Post",
+                        "featuredImage": {
+                            "__typename": "NodeWithFeaturedImageToMediaItemConnectionEdge",
+                            "node": {
+                                "__typename": "MediaItem",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2022/12/Thumbnail-5.png",
+                                "altText": ""
+                            }
+                        },
+                        "tags": {
+                            "__typename": "PostToTagConnection",
+                            "nodes": [{
+                                "__typename": "Tag",
+                                "name": "Struggle",
+                                "slug": "struggle",
+                                "id": "dGVybToxNzI="
+                            }]
+                        },
+                        "uri": "/did-jesus-really-struggle-as-i-do/",
+                        "id": "cG9zdDo0ODg=",
+                        "postId": 488,
+                        "title": "Did Jesus really struggle as I do?",
+                        "content": "<p>The video “The Struggle” drew me in with its imagery and then presented me with the idea that Jesus struggled financially. And he’s just like us. Huh. It stops even someone like me in my tracks thinking about it. No request for money. No expectation for me to change. No expectation to do anything except consider that Jesus struggled just like me. Just like most of us.</p>\n<p>It’s not the typical message, and it is anything but ordinary. The idea that Jesus is just like me, as opposed to the message that I need to change to become more like him, is extraordinary to me. It completely transforms my thought process around Jesus. It allows me to separate the idea of Jesus from the idea of religion. I’m immediately skeptical of any religious message. But this message doesn’t come with a request or any action item.</p>\n<p>As someone who instantly becomes defensive and skeptical when religion is introduced into any conversation, I think that the whole notion that Jesus is like me, and therefore meets me where I am — <i>has been where I am</i> — without any expectation of reciprocity (or paying) to meet him, is a completely different message than any other I have heard before. It was the first time that I can recall knowingly receiving a religious message where I did not immediately tune it out.</p>\n<p>If there is any hope in our world right now, it is that people will act with compassion, mercy, and love — all attributes that are often associated with Jesus, even by those who may not believe.</p>\n",
+                        "posts": {
+                            "__typename": "Post_Posts",
+                            "audio": null,
+                            "video": "https://youtu.be/nz3lNLbxkxQ",
+                            "featureImageMobile": null,
+                            "showVideoHorizontal": true,
+                            "subHeader": "I’m not a religious person, but “The Struggle” struck a chord with me.",
+                            "headerImage": {
+                                "__typename": "MediaItem",
+                                "altText": "",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2022/12/Header-5.png"
+                            }
+                        }
+                    }, {
+                        "__typename": "Post",
+                        "featuredImage": {
+                            "__typename": "NodeWithFeaturedImageToMediaItemConnectionEdge",
+                            "node": {
+                                "__typename": "MediaItem",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2022/12/Thumbnail-2.png",
+                                "altText": ""
+                            }
+                        },
+                        "tags": {
+                            "__typename": "PostToTagConnection",
+                            "nodes": [{
+                                "__typename": "Tag",
+                                "name": "Forgiveness",
+                                "slug": "forgiveness",
+                                "id": "dGVybToyMDI="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "RealLife",
+                                "slug": "reallife",
+                                "id": "dGVybToxNzA="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "Relationships",
+                                "slug": "relationships",
+                                "id": "dGVybToxODY="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "Struggle",
+                                "slug": "struggle",
+                                "id": "dGVybToxNzI="
+                            }]
+                        },
+                        "uri": "/jesus-had-strained-relationships-too/",
+                        "id": "cG9zdDo0NTA=",
+                        "postId": 450,
+                        "title": "Jesus had strained relationships, too.",
+                        "content": "<p>We were thinking about what Jesus’ relationships with friends and family might have looked like and were surprised by what we found. Pastel paintings and imagery of Jesus so often depict him having a peaceful, wonderful time with his loved ones, but a closer look at the text paints a more complex picture.</p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-873\" src=\"https://newstaging2stg.wpengine.com/wp-content/uploads/2022/12/RelationshipsHeadlines-01.png\" alt=\"\" width=\"3750\" height=\"261\" />Shortly after beginning his public ministry, Jesus went back to his hometown to share his message. A whole crowd gathered to hear him speak. By the time he was done speaking, they were calling to have him killed. They even tried to take matters into their own hands and throw him off a cliff. If we read this story too quickly, we might miss the fact that the very people trying to kill him grew up with him. They would have been friends and neighbors that knew Jesus when he was a boy. And that’s not the only example of good relationships gone sour. One of Jesus’ closest friends gave him up to the authorities in exchange for money, and another denied ever knowing him while he was being arrested. His family doubted him, and his own mother likely felt the relational strains that came part and parcel of a full-time traveling ministry.</p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-935\" src=\"https://newstaging2stg.wpengine.com/wp-content/uploads/2022/12/Quote-2-4.png\" alt=\"\" width=\"1800\" height=\"1200\" />The point is, Jesus’ relationships were far from perfect. Betrayal, doubt, insecurity, disagreement and distance muddied the waters even for Jesus. He couldn’t avoid relational stresses, but he did give us a model for how to respond to them and work toward restoration. His model? Radical patience and forgiveness.</p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-874\" src=\"https://newstaging2stg.wpengine.com/wp-content/uploads/2022/12/RelationshipsHeadlines-02.png\" alt=\"\" width=\"3750\" height=\"521\" />It might have been best illustrated in a story he told about a father and son. The son asked for his inheritance while the father was still alive—he valued the money more than the relationship. The father obliged, gave the money, and the son went off and spent it until he found himself completely destitute with nothing left. He resolved to return home to his father to humbly ask for a job—not to reclaim his spot as son, but as one of many hired hands. As he was walking up to the house, the father saw him from afar and ran out to embrace him. To forgive him. To welcome him home as a son.</p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-877\" src=\"https://newstaging2stg.wpengine.com/wp-content/uploads/2022/12/RelationshipsQuote3.png\" alt=\"\" width=\"3750\" height=\"2443\" />Repairing broken relationships is incredibly difficult, and the forgiveness Jesus both talked about and displayed is often messy and complicated. But know if you feel the pang of hurt in your relationships, Jesus did too, and take encouragement in his resolve to repair what was broken.</p>\n<p>**If you are in an abusive relationship, please seek help. Jesus’ call to forgive should not be wrongly used to manipulate people into staying in abusive relationships. Seek out safety first.</p>\n",
+                        "posts": {
+                            "__typename": "Post_Posts",
+                            "audio": null,
+                            "video": null,
+                            "featureImageMobile": null,
+                            "showVideoHorizontal": true,
+                            "subHeader": "From betrayal and abandonment to tensions from distance and lack of trust, Jesus’ relationships weren’t all perfect, but we can learn from how he navigated the strains.",
+                            "headerImage": {
+                                "__typename": "MediaItem",
+                                "altText": "",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2022/12/Header-2.png"
+                            }
+                        }
+                    }]
+                }
+            }
+        }, {
+            "node": {
+                "__typename": "Tag",
+                "id": "dGVybToxODQ=",
+                "name": "Judgment",
+                "slug": "judgment",
+                "trendingTopic": {
+                    "__typename": "Tag_Trendingtopic",
+                    "trendingTopics": true,
+                    "postsFeatured": [{
+                        "__typename": "Post",
+                        "featuredImage": {
+                            "__typename": "NodeWithFeaturedImageToMediaItemConnectionEdge",
+                            "node": {
+                                "__typename": "MediaItem",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2022/08/thumb-Did-Jesus-face-criticism.jpg",
+                                "altText": ""
+                            }
+                        },
+                        "tags": {
+                            "__typename": "PostToTagConnection",
+                            "nodes": [{
+                                "__typename": "Tag",
+                                "name": "Activist",
+                                "slug": "activist",
+                                "id": "dGVybToxNzE="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "Judgment",
+                                "slug": "judgment",
+                                "id": "dGVybToxODQ="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "Justice",
+                                "slug": "justice",
+                                "id": "dGVybToxNzM="
+                            }]
+                        },
+                        "uri": "/did-jesus-face-criticism/",
+                        "id": "cG9zdDoyMDI=",
+                        "postId": 202,
+                        "title": "Did Jesus face criticism? ",
+                        "content": "<p>We live in an era of social trends and influencers who mold the culture around us. Considerations about the impact of influencer voices greased the cogs in our minds and shifted our attention to one of the most famous influencers to ever live.</p>\n<p>Jesus had a following, to say the least. People came to him from every quarter to hear about his extreme views on love. This is no different from the thousands of subscribers or followers that influencers boast on today’s social platforms, and just like those influencers, his message was not without its detractors. They wanted him canceled.</p>\n<p>Studies indicate that 64% of respondents believe that cancel culture is a direct threat to their freedom. For Jesus, cancel culture did not put his freedom at risk. It put his life at risk. However, such threats did not deter him from delivering his radical truth. This willingness to take a stand is a conviction that we wanted to permeate into the visuals for this topic. We selected imagery that reflected the strain of standing up for your beliefs even when the masses aim to vanquish your voice. A feeling that Jesus knew all too well.</p>\n",
+                        "posts": {
+                            "__typename": "Post_Posts",
+                            "audio": null,
+                            "video": "https://www.youtube.com/watch?v=v1IJFJwexus",
+                            "featureImageMobile": null,
+                            "showVideoHorizontal": true,
+                            "subHeader": "Jesus had a following, to say the least. People came to him from every quarter to hear about his extreme views on love. Many because they found hope in his words. But some felt threatened by those words. They wanted him canceled. ",
+                            "headerImage": {
+                                "__typename": "MediaItem",
+                                "altText": "",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2022/08/header-Did-Jesus-face-criticism-min.jpg"
+                            }
+                        }
+                    }, {
+                        "__typename": "Post",
+                        "featuredImage": {
+                            "__typename": "NodeWithFeaturedImageToMediaItemConnectionEdge",
+                            "node": {
+                                "__typename": "MediaItem",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2023/05/Thumbnail-Image-8.png",
+                                "altText": ""
+                            }
+                        },
+                        "tags": {
+                            "__typename": "PostToTagConnection",
+                            "nodes": [{
+                                "__typename": "Tag",
+                                "name": "Bias",
+                                "slug": "bias",
+                                "id": "dGVybTozMjE="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "Judgment",
+                                "slug": "judgment",
+                                "id": "dGVybToxODQ="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "Struggle",
+                                "slug": "struggle",
+                                "id": "dGVybToxNzI="
+                            }]
+                        },
+                        "uri": "/jesus-overcame-bias-too/",
+                        "id": "cG9zdDo4NTA=",
+                        "postId": 850,
+                        "title": "Jesus overcame bias, too.",
+                        "content": "<p>What if we told you that if Jesus had been born today, he would be from the sticks? The so-called boonies? A remote area that has a reputation of producing no one of prestige or education? The wrong side of the tracks? It may seem odd to think of Jesus this way, but it’s true. In Scripture, a conversation between two brothers, Phillip and Nathanial, provides context. One day Phillip met Jesus, heard his teachings, and felt his love. He was excited and went to share the good news with his brother, who replied, “Can anything good come out of Nazareth?”</p>\n<p>At the time of his birth, Jesus’ family was forced to flee Nazareth for Egypt after King Herod decreed that all children under the age of two be killed. Yes, Jesus was a refugee, and the people of his hometown were not wealthy or elite by any means. No one expected anything positive or prominent to come from there, let alone someone who would change the world forever.</p>\n<p>Over two thousand years later, not much has changed. All we need do is turn on our televisions and observe how the media describes immigrants and refugees. They are often branded as invasive and disruptive, with their reasons for migrating and positive contributions muted. But why?</p>\n<p>The answer lies, in part, within the concept of unconscious bias &#8211; we may not know an individual, but because of where they are from, the color of their skin, or what they are wearing,  we make judgments about them.</p>\n<p>I was drawn to write this piece because I intimately understand the feeling of being dismissed because of where you come from. Unlike Jesus, I am not from the sticks, yet I, too, have judged because of where I came from. You see, back in middle school, I was the new black kid who moved from the looming city to the developing suburb. That gave the other kids a false narrative of how they thought I should be. Faster. Aggressive. Disruptive. Bold. In their minds, I wasn’t allowed to exist as I was because I looked a certain way and came from a side of town that mandated otherwise.</p>\n<p>Jesus too faced stereotypes based on society’s ideas about who he should be. That’s why his persecutors inscribed “Jesus of Nazareth, King of the Jews” on the cross at his crucifixion. This was their attempt to mock him because how could a mere man from a small, forgettable town ever hold any power or authority? Perhaps others’ perception of him would have been different had he been born into a wealthy family in an area of prestige.</p>\n<p>Jesus made a point to reach out to those who were judged because of their birthplace or circumstance. He spoke to Samaritans, the ethnic enemies of the Jewish people. He went out of his way to uplift lepers, who had been outcast by their communities. He conversed with women, who had little to no political power or social authority. He did so out of love, but he was able to do it so well because he had experienced similar dismissal.</p>\n<p>Jesus provided an example of the powerful change that comes when we choose to overlook shallow demographics and focus our intent on truly understanding someone. How can we be more like Phillip, ignoring social hierarchy and judging not based on where someone comes from but solely on the content of their heart?</p>\n",
+                        "posts": {
+                            "__typename": "Post_Posts",
+                            "audio": null,
+                            "video": null,
+                            "featureImageMobile": null,
+                            "showVideoHorizontal": true,
+                            "subHeader": "Where a person is from is often a source of judgment for others. This is how the expression “small-town mentality” came to be, but wouldn’t it be more appropriate to judge people based on their character? ",
+                            "headerImage": {
+                                "__typename": "MediaItem",
+                                "altText": "",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2023/05/Header-Image-10.png"
+                            }
+                        }
+                    }, {
+                        "__typename": "Post",
+                        "featuredImage": {
+                            "__typename": "NodeWithFeaturedImageToMediaItemConnectionEdge",
+                            "node": {
+                                "__typename": "MediaItem",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2023/02/Thumbnail-Image-2.png",
+                                "altText": ""
+                            }
+                        },
+                        "tags": {
+                            "__typename": "PostToTagConnection",
+                            "nodes": [{
+                                "__typename": "Tag",
+                                "name": "Forgiveness",
+                                "slug": "forgiveness",
+                                "id": "dGVybToyMDI="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "Judgment",
+                                "slug": "judgment",
+                                "id": "dGVybToxODQ="
+                            }, {
+                                "__typename": "Tag",
+                                "name": "Relationships",
+                                "slug": "relationships",
+                                "id": "dGVybToxODY="
+                            }]
+                        },
+                        "uri": "/jesus-chose-forgiveness/",
+                        "id": "cG9zdDo1OTE=",
+                        "postId": 591,
+                        "title": "Jesus chose forgiveness.",
+                        "content": "<p>As we were looking at ways to talk about Jesus’ unexplainable forgiveness, we kept coming back to one moment — when Jesus forgave the people who put him on the cross. It’s a moment that almost becomes more difficult to comprehend the more you think about it. He said, “Father forgive them, for they don’t know what they are doing.”</p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-1555\" src=\"https://content.hegetsus.com/wp-content/uploads/2023/02/ForgivenessQuote1-01-1.png\" alt=\"\" width=\"1500\" height=\"816\" srcset=\"https://content.hegetsus.com/wp-content/uploads/2023/02/ForgivenessQuote1-01-1.png 1500w, https://content.hegetsus.com/wp-content/uploads/2023/02/ForgivenessQuote1-01-1-300x163.png 300w, https://content.hegetsus.com/wp-content/uploads/2023/02/ForgivenessQuote1-01-1-910x495.png 910w, https://content.hegetsus.com/wp-content/uploads/2023/02/ForgivenessQuote1-01-1-768x418.png 768w, https://content.hegetsus.com/wp-content/uploads/2023/02/ForgivenessQuote1-01-1-1200x653.png 1200w, https://content.hegetsus.com/wp-content/uploads/2023/02/ForgivenessQuote1-01-1-1400x762.png 1400w\" sizes=\"(max-width: 1500px) 100vw, 1500px\" /></p>\n<p>&nbsp;</p>\n<p>How could he, an innocent man, possibly forgive the people responsible for his death as it was happening? How could he forgive the people who jeered and showed no remorse? It feels impossible, but it’s what he did.</p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-864\" src=\"https://newstaging2stg.wpengine.com/wp-content/uploads/2023/02/ForgivenessHeadlines-01.png\" alt=\"\" width=\"7500\" height=\"521\" />He asked a friend to take care of his mother, he comforted the man being crucified alongside him, and he prayed to God to forgive the people who put him on the cross. He came to preach forgiveness, to give forgiveness, and, in that moment on the cross, to model it.</p>\n<p>His earlier teachings — in the Sermon on the Mount and elsewhere — point us toward forgiving one another, and there’s a reason why. Jesus knew that seeking revenge or getting even doesn’t fulfill, and holding on to hatred and resentment only breeds more of the same.</p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-934\" src=\"https://newstaging2stg.wpengine.com/wp-content/uploads/2023/02/Quote-2-3-1.png\" alt=\"\" width=\"1800\" height=\"950\" />Forgiveness is a two-way street. It is a powerful display of love for the one being forgiven, but that’s not all. It is also a release of resentment for the one doing the forgiving. The choice to forgive — though incredibly difficult at times — is a choice that stops the cycle of hurt and pain, turns the page, and brings with it real peace. It is a choice that is good for us.</p>\n<p>Even when rejecting hatred and resentment was hard, Jesus chose forgiveness. He offered that forgiveness freely, and his call is for us to do the same.</p>\n",
+                        "posts": {
+                            "__typename": "Post_Posts",
+                            "audio": null,
+                            "video": "https://youtu.be/sxAvFGKklRI",
+                            "featureImageMobile": null,
+                            "showVideoHorizontal": true,
+                            "subHeader": "How could an innocent man, possibly forgive the people responsible for his death as it was happening? How could he forgive the people who jeered and showed no remorse? It feels impossible, but it’s what he did. ",
+                            "headerImage": {
+                                "__typename": "MediaItem",
+                                "altText": "",
+                                "sourceUrl": "https://content.hegetsus.com/wp-content/uploads/2023/02/Header-Image-5.png"
+                            }
+                        }
+                    }]
+                }
+            }
+        }],
+        "videosUrl": "featured-videos",
+        "customCardsResults": []
+    },
+    "__N_SSP": true
+}
