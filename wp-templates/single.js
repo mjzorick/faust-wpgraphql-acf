@@ -73,6 +73,9 @@ Component.query = gql`
         node {
           name
         }
+      postFields {
+        status
+        }
       }
       ...FeaturedImageFragment
     }
