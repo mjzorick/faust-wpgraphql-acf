@@ -23,7 +23,7 @@ export default function Component(props) {
     props?.data?.generalSettings;
   const primaryMenu = props?.data?.headerMenuItems?.nodes ?? [];
   const footerMenu = props?.data?.footerMenuItems?.nodes ?? [];
-  const { title, content, featuredImage, date, author } = props.data.post;
+  const { title, content, featuredImage, date, author, status } = props.data.post;
 
   return (
     <>
@@ -44,6 +44,7 @@ export default function Component(props) {
             image={featuredImage?.node}
             date={date}
             author={author?.node?.name}
+            status={status?.node?.status}
           />
           <Container>
             <ContentWrapper content={content} />
