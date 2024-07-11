@@ -18,6 +18,7 @@ module.exports = withFaust({
     ];
   },
   reactStrictMode: true,
+  poweredByHeader: false,
   sassOptions: {
     includePaths: ['node_modules'],
   },
