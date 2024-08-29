@@ -1,9 +1,6 @@
 const fetchWordPressRedirects = async function() {
   const resp = await fetch(`${process.env.NEXT_PUBLIC_WORDPRESS_URL}/graphql`, {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-    },
+    method: 'GET',
     body: JSON.stringify({
       query: `
         {
