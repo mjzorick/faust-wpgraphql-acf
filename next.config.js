@@ -1,9 +1,14 @@
 const { withFaust, getWpHostname } = require('@faustwp/core');
+const fetchWordPressRedirects = require('./utils/fetchWordPressRedirects')
 
 /**
  * @type {import('next').NextConfig}
  **/
 module.exports = withFaust({
+  async redirects() {
+    const wordPressRedirects = await fetchWordPressRedirects();
+    return wordPressRedirects;
+  },
   async headers() {
     return [
       {
