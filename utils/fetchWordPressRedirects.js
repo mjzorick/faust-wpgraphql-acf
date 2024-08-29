@@ -1,5 +1,5 @@
 const fetchWordPressRedirects = async function() {
-  const resp = await fetch(`${process.env.NEXT_PUBLIC_WORDPRESS_URL}/graphql`, {
+  const resp = await fetch(`${process.env.GRAPHQL_ENDPOINT}`, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
