@@ -1,8 +1,7 @@
 import Link from "next/link";
 import { useQuery, gql } from "@apollo/client";
-import { getNextStaticProps } from '@faustwp/core';
 
-Page.query = gql`
+const GET_POSTS = gql`
   query getPosts {
     posts {
       nodes {
@@ -14,13 +13,11 @@ Page.query = gql`
     }
   }
 `;
-
-export default function Page(props) {
-    const { data } = useQuery(Page.query);
-   
-    const title = props.title;
-
-    return (
+export default function Blog() {
+  const { loading, error, data } = useQuery(GET_POSTS);
+  if (loading) return "Loading...";
+  if (error) return `Error! ${error.message}`;
+  return (
     <ul>
       {data.posts.nodes.map((post) => (
         <li key={post.databaseId}>
@@ -34,8 +31,4 @@ export default function Page(props) {
       ))}
     </ul>
   );
-  }
-
-export function getStaticProps(ctx) {
-    return getNextStaticProps(ctx, {Page, props: {title: 'Blog'}, revalidate: 10});
-  }
+}
