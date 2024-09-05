@@ -9,7 +9,19 @@ module.exports = withFaust({
     const wordPressRedirects = await fetchWordPressRedirects();
     return wordPressRedirects;
   },
-  
+  async headers() {
+    return [
+      {
+        source: '/(.*)',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'max-age=10, stale-while-revalidate',
+          },
+        ],
+      },
+    ];
+  },
   reactStrictMode: true,
   poweredByHeader: false,
   sassOptions: {
