@@ -12,13 +12,13 @@ module.exports = withFaust({
   async headers() {
     return [
       {
-        source: '/(.*)',
+        source: "/:path*",
         headers: [
           {
-            key: 'Cache-Control',
-            value: 'max-age=10, stale-while-revalidate',
+            key: "CDN-Cache-Control",
+            value: `public, max-age=86400, stale-while-revalidate=60, stale-if-error=2592000`,
           },
-        ],
+        ]
       },
     ];
   },
