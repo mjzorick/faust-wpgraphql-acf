@@ -9,6 +9,14 @@ module.exports = withFaust({
     const wordPressRedirects = await fetchWordPressRedirects();
     return wordPressRedirects;
   },
+  async rewrites() {
+    return [
+      {
+        source: '/about',
+        destination: '/',
+      },
+    ]
+  },
   async headers() {
     return [
       {
